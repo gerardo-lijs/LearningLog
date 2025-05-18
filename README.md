@@ -3,6 +3,9 @@ A personal log of courses, conferences, books, and other learning resources. The
 
 ### Year 2025
 
+* 2025-05-18 - [Building AI-enabled .NET Applications](https://app.pluralsight.com/library/courses/building-ai-enabled-dot-net-applications/table-of-contents) - 2.8hs  
+An overview of the OpenAI API and Azure AI services. Not recommended unless you're completely new to the topic
+
 * 2025-05-18 - [Pluralsight - React Fundamentals](https://app.pluralsight.com/library/courses/react-18-fundamentals/table-of-contents) - 3.5hs  
 A good refresher—or introductory course—on React
 
@@ -58,7 +61,7 @@ A refresher on security protocols
 A brief and engaging overview of hardware gadgets used in cybersecurity
 
 * 2025-05-02 - [Pluralsight - Performance Measuring and Monitoring for .NET Applications](https://app.pluralsight.com/library/courses/dot-net-6-application-performance-measuring-monitoring/table-of-contents) - 2.6hs  
-A very basic course—not recommended unless you're completely new to the topic
+A very basic course. Not recommended unless you're completely new to the topic
 
 * 2025-05-02 - [Pluralsight - Active Directory Privilege Escalation and Lateral Movement](https://app.pluralsight.com/library/courses/ad-priv-escalation-lateral-movement/table-of-contents) - 0.7hs  
 An interesting cybersecurity course
