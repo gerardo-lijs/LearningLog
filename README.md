@@ -3,6 +3,9 @@ A personal log of courses, conferences, books, and other learning resources. The
 
 ### Year 2025
 
+* 2025-05-18 - [Pluralsight - React Fundamentals](https://app.pluralsight.com/library/courses/react-18-fundamentals/table-of-contents) - 3.5hs  
+A good refresher—or introductory course—on React
+
 * 2025-05-15 - [What's new in .NET 9 & C# 13 - Filip Ekberg - NDC Melbourne 2025](https://www.youtube.com/watch?v=snPgTcxH8-s) - 1hs  
 A good overview of the new features in .NET and C# coming this November
 
