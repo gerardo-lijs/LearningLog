@@ -72,6 +72,9 @@ A good course on ML.NET and the Model Builder feature in Visual Studio
 * 2025-04-29 - [Pluralsight - Secure Business Logic for C#](https://app.pluralsight.com/library/courses/secure-business-logic-c-sharp/table-of-contents) - 1.2hs  
 Filip explains best practices for building secure applications very well
 
+* 2025-04-27 - [Udemy - MikroTik Security Engineer with LABS](https://www.udemy.com/course/mikrotik-security-engineer-with-labs) - 12.5hs  
+A great course on securing your MikroTik router and firewall
+
 * 2025-04-24 - [.NET Conf - Focus on Modernization: Day 2](https://www.youtube.com/watch?v=vc7Qu2RVOwY) - 4hs  
 Many interesting talks regarding .NET modernization
 
