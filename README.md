@@ -3,10 +3,13 @@ A personal log of courses, conferences, books, and other learning resources. The
 
 ### Year 2025
 
-* 2025-05-19 - [Enabling Secure Software Development in GitHub](https://app.pluralsight.com/library/courses/github-enabling-secure-software-development/table-of-contents) - 2hs  
+* 2025-05-23 - [MS Build 2025 - How Microsoft Developers Use AI in Real-World Coding](https://www.youtube.com/watch?v=gieL0bxyTUU) - 1hs  
+A great session where Stephen Toub and David Fowler demonstrate how they incorporate AI into their programming workflows
+
+* 2025-05-19 - [Pluralsight - Enabling Secure Software Development in GitHub](https://app.pluralsight.com/library/courses/github-enabling-secure-software-development/table-of-contents) - 2hs  
 A good review of GitHub security settings, including Secret Scanning, Dependabot, CodeQL, SSH keys, PATs, and more
 
-* 2025-05-18 - [Building AI-enabled .NET Applications](https://app.pluralsight.com/library/courses/building-ai-enabled-dot-net-applications/table-of-contents) - 2.8hs  
+* 2025-05-18 - [Pluralsight - Building AI-enabled .NET Applications](https://app.pluralsight.com/library/courses/building-ai-enabled-dot-net-applications/table-of-contents) - 2.8hs  
 An overview of the OpenAI API and Azure AI services. Not recommended unless you're completely new to the topic
 
 * 2025-05-18 - [Pluralsight - React Fundamentals](https://app.pluralsight.com/library/courses/react-18-fundamentals/table-of-contents) - 3.5hs  
