@@ -3,6 +3,9 @@ A personal log of courses, conferences, books, and other learning resources. The
 
 ### Year 2025
 
+* 2025-05-23 - [MS Build 2025 - What's Next in C#](https://www.youtube.com/watch?v=ssqGEBW-gpo) - 1hs  
+A good overview of the new features in .NET and C# explained by Mads Torgersen and Dustin Campbell
+
 * 2025-05-23 - [MS Build 2025 - How Microsoft Developers Use AI in Real-World Coding](https://www.youtube.com/watch?v=gieL0bxyTUU) - 1hs  
 A great session where Stephen Toub and David Fowler demonstrate how they incorporate AI into their programming workflows
 
