@@ -3,6 +3,9 @@ A personal log of courses, conferences, books, and other learning resources. The
 
 ### Year 2025
 
+* 2025-05-25 - [Pluralsight - Secure Authorization for C# Applications](https://app.pluralsight.com/library/courses/authorization-c-sharp/table-of-contents) - 1.7hs  
+A clear explanation of authorization in .NET web apps, covering horizontal and vertical access control, as well as role-based, attribute-based, and database-level authorization
+
 * 2025-05-25 - [Pluralsight - Managing Identities and Authentication in GitHub](https://app.pluralsight.com/library/courses/github-managing-identities-authentication/table-of-contents) - 1hs  
 An informative review of GitHub security settings, helpful for verifying adherence to current best practices
 
