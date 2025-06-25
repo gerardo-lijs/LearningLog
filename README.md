@@ -3,6 +3,9 @@ A personal log of courses, conferences, books, and other learning resources. The
 
 ### Year 2025
 
+* 2025-06-24 - [.NET Diagnostics Expert](https://www.updatecourses.net/net-diagnostic-expert) - 27hs  
+A great course for diving deep into debugging, tracing, memory diagnostics, synchronization issues, and more. Featuring extensive theory along with numerous demo sessions and practical use cases
+
 * 2025-05-25 - [Pluralsight - Secure Authorization for C# Applications](https://app.pluralsight.com/library/courses/authorization-c-sharp/table-of-contents) - 1.7hs  
 A clear explanation of authorization in .NET web apps, covering horizontal and vertical access control, as well as role-based, attribute-based, and database-level authorization
 
