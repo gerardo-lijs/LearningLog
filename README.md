@@ -3,6 +3,12 @@ A personal log of courses, conferences, books, and other learning resources. The
 
 ### Year 2025
 
+* 2025-12-07 - [.NET Memory Expert](https://www.updatecourses.net/net-memory-expert) - 42hs  
+A great course for diving deep into garbage collection, memory management, profiling, dumps, roots, generations, and everything else you need to know about memory in .NET.
+
+* 2025-12-06 - [Cancellation Tokens with Stephen Toub](https://www.youtube.com/watch?v=h1GvSPaRQ-U) - 1hs  
+Scott Hanselman and Stephen Toub’s Deep .NET series is a must-see for experienced developers who want to dive deeper.
+
 * 2025-08-04 - [Visual Studio Live Conference @ Microsoft HQ](https://vslive.com/events/microsofthq-2025/sessions/session-list.aspx) - 4 days  
 It was an amazing conference with great speakers and talks, plus the opportunity to network with many colleagues. It was also my first time at Microsoft HQ, which made it especially memorable for me.
 
